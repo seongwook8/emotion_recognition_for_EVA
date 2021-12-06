@@ -1,5 +1,5 @@
 # EVA with Face and Emotion Detection
-Must Follow the installation guide of the original EVA repository.
+Must Follow the installation guide of the original [EVA](https://github.com/georgia-tech-db/eva.git) repository.
 
 After completing installation with EVA, activate the conda environment and install all the required dependencies in requirements.txt.
 
