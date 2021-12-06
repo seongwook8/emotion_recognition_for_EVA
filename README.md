@@ -6,6 +6,8 @@ After completing installation with EVA, activate the conda environment and insta
 Refer to [facenet-pytorch](https://github.com/timesler/facenet-pytorch) and [Facial-Expression-Recognition.Pytorch
 ](https://github.com/WuJie1010/Facial-Expression-Recognition.Pytorch) for more information on the original libraries.
 
+Examples Jupyter Notebooks can be found in the tutorials folder.
+
 # EVA (Exploratory Video Analytics)
 
 <!-- [![Build Status](https://travis-ci.org/georgia-tech-db/eva.svg?branch=master)](https://travis-ci.com/georgia-tech-db/eva)
