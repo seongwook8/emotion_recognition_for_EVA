@@ -1,8 +1,9 @@
 # EVA with Face and Emotion Detection
 Must Follow the installation guide of the original EVA repository.
 After completing installation with EVA, activate the conda environment and install all the required dependencies in requirements.txt.
+
 Refer to [facenet-pytorch](https://github.com/timesler/facenet-pytorch) and [Facial-Expression-Recognition.Pytorch
-](https://github.com/WuJie1010/Facial-Expression-Recognition.Pytorch).
+](https://github.com/WuJie1010/Facial-Expression-Recognition.Pytorch) for more information on the original libraries.
 
 # EVA (Exploratory Video Analytics)
 
